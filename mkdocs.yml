@@ -1,0 +1,58 @@
+site_name: VOICEN
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+theme:
+  name: 'material'
+#   feature:
+#     tabs: true
+
+# repo_url: 'https://github.com/voice-engine/voice-engine.github.io'
+
+nav:
+  - Overview: index.md
+  - Hardware: hardware.md
+  - Assembling: assembling.md
+  - Get Started: get_started.md
+  - IO: io.md
+  - ALSA: alsa.md
+  - Alexa: alexa.md
+  - Google Assistant: google_assistant.md
+  - Snips Voice Assistant: snips.md
+  - As a USB Sound Card: usb_sound_card.md
+  - AirPlay: airplay.md
+  - DLNA: dlna.md
