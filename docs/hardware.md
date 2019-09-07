@@ -5,11 +5,11 @@
 
 
 ## Specification
-+ AllWinner H3 (ARM Cortex A7)
-+ AC108 4 Channels ADC
++ AllWinner H3 (Quad-Core ARM Cortex A7 @ 1.296 GHz)
 + 512MB RAM
 + 8GB eMMC Flash
-+ 8Ω 3W Speaker
++ AC108 4 Channels ADC
++ 4Ω 3W Speaker
 + 4 LEDs (red, yellow, green, blue)
 + 1 touch key
 
