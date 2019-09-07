@@ -1,4 +1,8 @@
-# Overview
+# Introduction
+
+![](assets/images/voicen_logo.png)
+
+VOICEN is the project name. It means voice-enabled or voice-engine.
 
 The project is to make open source voice-enabled devices which can run a variety of voice assistants, music apps, home automation services and etc.
 
