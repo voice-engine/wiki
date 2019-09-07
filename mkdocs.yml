@@ -44,10 +44,11 @@ theme:
 # repo_url: 'https://github.com/voice-engine/voice-engine.github.io'
 
 nav:
-  - Overview: index.md
+  - Introduction: index.md
   - Hardware: hardware.md
   - Assembling: assembling.md
   - Get Started: get_started.md
+  - Message Bus: message_bus.md
   - IO: io.md
   - ALSA: alsa.md
   - Alexa: alexa.md
