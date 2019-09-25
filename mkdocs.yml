@@ -51,9 +51,12 @@ nav:
   - Message Bus: message_bus.md
   - IO: io.md
   - ALSA: alsa.md
+  - AirPlay: airplay.md
+  - Mopidy: mopidy.md
+  - DLNA: DLNA.md
   - Alexa: alexa.md
   - Google Assistant: google_assistant.md
+  - Home Assistant: home_assistant.md
   - Snips Voice Assistant: snips.md
   - As a USB Sound Card: usb_sound_card.md
-  - AirPlay: airplay.md
-  - DLNA: dlna.md
+  - JACK: jack.md
