@@ -19,8 +19,8 @@ After you change the configuration, you should restart `shairport-sync` by runni
 ## Using AirPlay on iOS
 1.  play any music and open iOS control center
 
-    ![assets/images/ios_control_center.png]
+    ![](assets/images/ios_control_center.png)
 
 2.  Choose the AirPlay device
 
-    ![assets/images/ios_airplay.png]
+    ![](assets/images/ios_airplay.png)

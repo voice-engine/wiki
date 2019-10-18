@@ -53,7 +53,7 @@ nav:
   - ALSA: alsa.md
   - AirPlay: airplay.md
   - Mopidy: mopidy.md
-  - DLNA: DLNA.md
+  - UPnP/DLNA: upnp.md
   - Alexa: alexa.md
   - Google Assistant: google_assistant.md
   - Home Assistant: home_assistant.md

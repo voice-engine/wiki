@@ -1,6 +1,6 @@
 # IO
 
-![](assets/images/speaker_top.png)
+![](assets/images/mic+amp.png)
 
 
 ## Used

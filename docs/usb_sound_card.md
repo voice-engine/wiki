@@ -1,5 +1,7 @@
 # As a USB sound card
 
+![](assets/images/top.png)
+
 By the default, the micro USB port of the Nanopi Neo Air is used as a serial port.
 While it can also be used a USB sound card.
 
