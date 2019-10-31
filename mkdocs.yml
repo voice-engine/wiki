@@ -51,12 +51,26 @@ nav:
   - Message Bus: message_bus.md
   - IO: io.md
   - ALSA: alsa.md
-  - AirPlay: airplay.md
-  - Mopidy: mopidy.md
-  - UPnP/DLNA: upnp.md
+  - Music:
+    - AirPlay: airplay.md
+    - Mopidy: mopidy.md
+    - UPnP/DLNA: upnp.md
+    - Snapcast: snapcast.md
+  - KWS: kws.md
+  - Audio Processing:
+    - AEC: audio_processing/aec.md
+    - NS: audio_processing/ns.md
+    - DOA: audio_processing/doa.md
+    - DOA: audio_processing/beamforming.md
   - Alexa: alexa.md
   - Google Assistant: google_assistant.md
-  - Home Assistant: home_assistant.md
+  - MyCroft: mycroft.md
   - Snips Voice Assistant: snips.md
+  - Home Assistant: home_assistant.md
   - As a USB Sound Card: usb_sound_card.md
   - JACK: jack.md
+  
+extra_javascript:
+  - 'javascripts/extra.js'
+
+google_analytics: ['UA-150973529-1', 'voicen.io']

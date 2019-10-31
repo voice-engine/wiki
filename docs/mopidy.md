@@ -14,7 +14,7 @@ sudo apt-get install python-gst-1.0 \
     gir1.2-gstreamer-1.0 gir1.2-gst-plugins-base-1.0 \
     gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly \
     gstreamer1.0-tools
-sudo pip install mopidy mopidy-musicbox-webclient
+sudo pip2 install mopidy mopidy-musicbox-webclient
 ```
 
 These commands will install mopidy, its dependencies and mopidy webclient musicbox.

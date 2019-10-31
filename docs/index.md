@@ -2,19 +2,25 @@
 
 ![](assets/images/voicen.svg)
 
-VOICEN is the project name. It means voice-enabled or voice-engine.
+VOICEN is an open source project to build voice-enabled devices.
 
-The project is to make open source smart speakers. With an open source smart speaker, you have the freedom to choose which voice assistant to use - amazon alexa, google assistant, mycroft or snips offline voice assistant.
-You have full control of your device to install apps and to share your data.
+The first goal of the project is to make an open source smart speaker. With an open source smart speaker, you have the freedom to choose which voice assistant to use.You have full control of your device to install apps and to share your data.
 
 ![](assets/images/speaker.svg)
 
-The first device of the VOICEN project will come soon, it will supports:
+## Hardware
+The first hardware of the project is a DIY smart speaker kit - [VOICEN Linear 4 Mic Array Kit](hardware/#voicen-linear-4-mic-array-kit).
 
-+ voice assistants including mycroft, snips voice assistant, amazon alexa, google assistant, baidu dueros
-+ music apps such as shairport-sync for AirPlay, Mopidy, upmpdcli for UPnP/DLNA, snapcast
-+ Home Assistant for home automation
-+ ttyd as web terminal, jupyter lab as web IDE
-+ audio processing algorithms (AEC, NS, DOA, Beamforming)
-+ data over sound
+It will come soon!
+
+![](assets/images/speaker_front.png)
+
+## Applications
++ Built a smart speaker with multiple voice assistants
++ Make a Wi-Fi speaker with AirPlay and UPnP/DLNA
++ Setup a multi-room audio system
++ Automate your home with HomeAutomation
++ Learn to use a variety of audio processing algorithms such as Acoustic Echo Cancellation (AEC), Direction Of + Arrival (DOA), Noise Suppression (NS) and Beamforming
++ Learn how to send data over audio
+
 

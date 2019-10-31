@@ -23,16 +23,23 @@ name = 'PC3'
 number = (ord(name[1]) - ord('A')) * 32 + int(name[2])
 ```
 
-## Via IO register (direct memory access)
+There are several ways to control IO.
+
+## Via IO registers (direct memory access)
 ```shell
 sudo apt install -y sunxi-tools
 sudo sunxi-pio -m PC1=1  # turn on green LED
 ```
 
+Accessing IO registers has the high priority.
+
 ## Via IO service
 By default, there is a IO service to detect the touch key and to control the LEDs and amplifier. The IO service provides MQTT message bus to access.
 
-
+```
+mosquitto_pub -t /voicen/leds/value -m 0xf
+mosquitto_pub -t /voicen/leds/value -m 0x0
+```
 
 
 ## Via GPIO sysfs interface
