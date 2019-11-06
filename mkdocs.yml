@@ -41,13 +41,15 @@ theme:
 #   feature:
 #     tabs: true
 
-# repo_url: 'https://github.com/voice-engine/voice-engine.github.io'
+repo_url: 'https://github.com/voice-engine/wiki'
 
 nav:
   - Introduction: index.md
   - Hardware: hardware.md
+  - Get one: get_one.md
   - Assembling: assembling.md
   - Get Started: get_started.md
+  - VOICEN OS: voicen_os.md
   - Message Bus: message_bus.md
   - IO: io.md
   - ALSA: alsa.md
@@ -61,7 +63,7 @@ nav:
     - AEC: audio_processing/aec.md
     - NS: audio_processing/ns.md
     - DOA: audio_processing/doa.md
-    - DOA: audio_processing/beamforming.md
+    - Beamforming: audio_processing/beamforming.md
   - Alexa: alexa.md
   - Google Assistant: google_assistant.md
   - MyCroft: mycroft.md

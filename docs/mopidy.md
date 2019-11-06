@@ -1,5 +1,7 @@
 # Mopidy
 
+![](https://github.com/pimusicbox/mopidy-musicbox-webclient/raw/develop/screenshots/overview.png)
+
 >Mopidy is an extensible music server written in Python.
 Mopidy plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. 
 You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.

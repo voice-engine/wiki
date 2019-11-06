@@ -1,5 +1,7 @@
 # Message Bus
 
+![](assets/images/speaker_top.png)
+
 The VOICEN OS uses MQTT as a message bus. We can control LEDs and AMP via the message bus.
 We can also subscribe touch key events from the message bus.
 

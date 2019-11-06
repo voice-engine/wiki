@@ -3,13 +3,13 @@
 Noise Suppression (NS) is widely used in audio systems. 
 In a smart speaker, NS is requred to remove noise without introducing too much audio distortion which is farmful to speech recognition.
 
-Among a variety of NS algorithms, the NS in WebRTC's audio processing module is a robust one. We will use it belwow.
+Among a variety of NS algorithms, the NS in WebRTC's audio processing module is a robust one. We are going to learn how to use it.
 
 ## NS of WebRTC Audio Processing in Python
 
 [python-webrtc-audio-processing](https://github.com/xiongyihui/python-webrtc-audio-processing) is used here.
 
-1.  `pip install webrtc-audio-processing`
+1.  `sudo pip3 install webrtc-audio-processing`
 2.  create a python script named `ns.py`
 
     ```
@@ -55,6 +55,6 @@ Among a variety of NS algorithms, the NS in WebRTC's audio processing module is 
     out.close()
     ```
 
-3. `python ns.py noisy.wav out.wav`
+3. `python3 ns.py noisy.wav out.wav`
 
 
