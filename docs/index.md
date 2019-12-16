@@ -11,8 +11,6 @@ The first goal of the project is to make an open source smart speaker. With an o
 ## Hardware
 The first hardware of the project is a DIY smart speaker kit - [VOICEN Linear 4 Mic Array Kit](hardware/#voicen-linear-4-mic-array-kit).
 
-It will be available at the end of November. You can pre-order it from https://www.makerfabs.com/voicen-linear-4-mic-array-kit.html
-
 ![](assets/images/speaker_front.png)
 
 ## Applications
