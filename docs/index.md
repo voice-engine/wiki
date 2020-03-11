@@ -1,6 +1,6 @@
 # Introduction
 
-![](assets/images/voicen.svg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jyY0p24fLlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 VOICEN is an open source project to build voice-enabled devices.
 
@@ -20,5 +20,4 @@ The first hardware of the project is a DIY smart speaker kit - [VOICEN Linear 4 
 + Automate your home with HomeAutomation
 + Learn to use a variety of audio processing algorithms such as Acoustic Echo Cancellation (AEC), Direction Of + Arrival (DOA), Noise Suppression (NS) and Beamforming
 + Learn how to send data over audio
-
 
