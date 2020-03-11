@@ -9,5 +9,5 @@ cd voice-engine.github.io
 git checkout origin/mkdocs -b mkdocs
 mkdocs serve
 # Make some changes
-mkdocs gh-deploy -b master
+mkdocs gh-deploy -b gh-pages
 ```
